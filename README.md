@@ -1,6 +1,6 @@
 ### About Me
 
-- :phone: How to reach me: [Linktree](https://linktr.ee/cquick00), <a rel="me" href="https://fosstodon.org/@KingKairos">Mastodon</a>
+- :phone: How to reach me: [Linktree](https://linktr.ee/cquick00)
 - :couple: I’m looking to collaborate on anything revolving around Python, PowerShell, or any FOSS projects that are just for fun
 - :briefcase: I’m currently starting on a new project (currently called Nuz.locke(r)) with @singima to try and create the most advanced tracker for [Nuzlockes](https://bulbapedia.bulbagarden.net/wiki/Nuzlocke_Challenge)!
 - :book: I’m currently trying to learn Rust as it will probably be what Nuz.locke(r) (mentioned above) will be mostly written in
