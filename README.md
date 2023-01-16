@@ -6,7 +6,7 @@
 - :zap: Fun Fact: I'm a huge Harry Potter fan!
 - :smile: Pronouns: He/Him
 
-[![cquick00's GitHub stats](https://github-readme-stats.vercel.app/api?username=cquick00&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/cquick00?cardType=level&theme=dracula)](https://git.io/awesome-stats-card)
 
 <!--
 **cquick00/cquick00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
