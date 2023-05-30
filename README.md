@@ -1,11 +1,5 @@
 <h3 align="center"> I'm Charlie, nice to meet you!&nbsp;&nbsp;<a href="#"> <img alt="" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> </a> </h3>
 
-<p>
-<a href="#x">
-<img alt="" src="https://github.com/GyulyVGC/GyulyVGC/assets/100347457/3ca32690-919b-4fdf-ad5c-77ff268675b7" width=100%>
-</a>
-</p>
-
 <p align="center">
   <a href="mailto:cquickreal00@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img alt ="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -30,7 +24,7 @@
 </a>
 &nbsp;
 <a href="#x">
-<img width="36.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cquick00&layout=compact&theme=dracula&langs_count=4"/>
+<img width="36.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cquick00&layout=compact&theme=dracula&langs_count=8"/>
 </a>
 </div>
 
