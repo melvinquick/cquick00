@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="mailto:cquickreal00@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img alt ="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt ="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/melvinquick/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge">
   </a>  
-  <a href="https://reddit.com/user/cquick00" target="_blank">
-      <img alt="Twitter" src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white"/>
+  <a href="https://news.ycombinator.com/user?id=KingKairos_" target="_blank">
+      <img alt="Twitter" src="https://img.shields.io/badge/HackerNews-FF6600.svg?style=for-the-badge"/>
   </a>
 </p>
 
