@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/melvinquick/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge">
   </a>  
-  <a href="https://news.ycombinator.com/user?id=KingKairos_" target="_blank">
-      <img alt="Twitter" src="https://img.shields.io/badge/HackerNews-FF6600.svg?style=for-the-badge"/>
+  <a href="https://fosstodon.org/@KingKairos" target="_blank">
+      <img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF.svg?style=for-the-badge"/>
   </a>
 </p>
 
