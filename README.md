@@ -12,7 +12,7 @@
 </a>
 &nbsp;
 <a href="#x">
-<img width="36.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinquick&layout=compact&theme=nord&langs_count=8"/>
+<img width="36.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinquick&layout=compact&theme=nord&langs_count=2"/>
 </a>
 </div>
 
