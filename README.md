@@ -8,11 +8,11 @@
 
 <div align="center">
 <a href="#x">
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=melvinquick&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=melvinquick&show_icons=true&theme=nord&count_private=true&include_all_commits=true"/>
 </a>
 &nbsp;
 <a href="#x">
-<img width="36.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinquick&layout=compact&theme=highcontrast&langs_count=8"/>
+<img width="36.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinquick&layout=compact&theme=nord&langs_count=8"/>
 </a>
 </div>
 
